@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Your Name</string>
+    <string name="star_fish">star_fish</string>
+    <string name="long_text">I am an introvert and I dont talk much but when i get comfortable with you,for sure,you will regret it \n\n
+        I like to eat,yall eat to live whereas i live to eat #weaintsame \n\n
+        I also love memes and the memes you like,I might have seen it way long back,dont think you can out-meme me \n\n
+        My hobbies, I really dont know,Its like my enthusiam lives on for like a couple of days,max weeks and then poof,back to square one\n\n
+        Honestly COVID didnt affect me much,I kinda like it ,no no no dont get me wrong,I meant I like the online class and stuffs
+    </string>
+    <string name="bio_name">bio_name</string>
+    <string name="what_is_your_nick_name">What is your NickName</string>
+    <string name="done">Done</string>
+</resources>
